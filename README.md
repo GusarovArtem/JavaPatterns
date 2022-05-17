@@ -1,2 +1,0 @@
-# JavaPatterns
-Basic Java Patterns
